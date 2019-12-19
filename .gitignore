@@ -1,0 +1,4 @@
+.tox/**
+**/*.pyc
+tox.ini
+**/*.db
